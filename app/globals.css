@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header{
+    width: 1440px;
+    height: 102px;
+    fill: white;
+    display: flex;
+    
+}
+button:hover{
+    background-color: rgb(166, 233, 248);
+}
+
+
+
+
+
